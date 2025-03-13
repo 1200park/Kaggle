@@ -19,4 +19,4 @@ This project aims to predict smoking status using an ensemble of machine learnin
 
 
 ## Author
-[Passion Raccoon]
+[Team PassionRaccoon]
