@@ -1,6 +1,6 @@
 # Kaggle
 
-# Smoking Prediction Ensemble Model
+# Binary Prediction of Smoker Status using Bio-Signals
 
 ## Overview
 This project aims to predict smoking status using an ensemble of machine learning models. The approach involves training multiple models, optimizing their weights, and combining predictions to improve accuracy.
