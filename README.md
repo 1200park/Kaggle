@@ -17,6 +17,8 @@ This project aims to predict smoking status using an ensemble of machine learnin
 6. **Feature Importance Analysis**: Visualize feature contributions using XGBoost and LightGBM.
 7. **Final Prediction**: Generate and save predictions for submission.
 
+## Result  
+**Ranked 166th out of 1,908 teams (Top 8%)** in the competition.  
 
 ## Author
 [Team PassionRaccoon]
